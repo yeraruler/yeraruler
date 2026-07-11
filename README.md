@@ -1,6 +1,13 @@
 <div align="center">
 
 ```
+🌸       🌸           🌸        🌸       🌸
+    🌸        🌸   🌸       🌸       🌸
+        🌸           🌸          🌸
+             ・゜゜・。。・゜゜・
+```
+
+```
  ███████╗██████╗   █████╗  ███████╗██╗   ██╗██╗
  ██╔════╝██╔══██╗ ██╔══██╗ ██╔════╝╚██╗ ██╔╝██║
  █████╗  ██████╔╝ ███████║ ███████╗ ╚████╔╝ ██║
@@ -12,16 +19,18 @@
         > based in Aktobe, Kazakhstan 🇰🇿
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DC143C&background=0D0208FF&center=true&vCenter=true&width=700&height=100&lines=%3E+SYSTEM+ONLINE...;%3E+ANALYZING+CODEBASE...;%3E+JUDGMENT%3A+SHIP+IT.;%3E+WELCOME+TO+MY+WORLD." alt="Dark Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF9EB5&center=true&vCenter=true&width=700&lines=%E3%80%8C+Hi%2C+I'm+Erasyl+%E3%80%8D+%F0%9F%8C%B8;AI+Engineer+%26+Full-stack+Developer;%E2%9A%BD+Football+%2B+%CF%80+Math+%2B+%F0%9F%A4%96+AI;Building+AinalayinAI+%26+compil.kz" alt="Sakura Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erasyl+%F0%9F%91%8B;AI+Engineer+%26+Full-stack+Developer;Building+AinalayinAI+%F0%9F%A4%96;Currently+working+on+compil.kz" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=ErasylCoder&color=FF9EB5&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ErasylCoder?label=Followers&style=flat-square&color=FF9EB5)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ErasylCoder&color=00D9FF&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ErasylCoder?label=Followers&style=flat-square&color=00D9FF)
+```
+    🌸        🌸           🌸        🌸
+        🌸        🌸   🌸       🌸
+            ・゜゜・。。・゜゜・
+```
 
 </div>
 
@@ -39,6 +48,7 @@ public:
     std::string name = "Erasyl Amirtay";
     std::string location = "Aktobe, Kazakhstan";
     std::string role = "AI Engineer & Full-stack Developer";
+    std::vector<std::string> hobbies = { "Football ⚽", "Mathematics 📐", "Anime 🌸" };
     std::vector<std::string> focus = {
         "Building fintech tools for freelancers & SMEs",
         "Designing AI-powered products"
@@ -55,6 +65,33 @@ int main() {
     return 0;
 }
 ```
+
+---
+
+### 📐 Fun Facts
+
+<div align="center">
+
+| ⚽ Football | 📐 Math | 🌸 Anime |
+|:---:|:---:|:---:|
+| Favorite formation: 4-3-3 | e^(iπ) + 1 = 0 | Autumn = code + calm |
+| Believes in build-up play | Fibonacci in every roadmap | Sakura season = ship season |
+
+</div>
+
+---
+
+### 🎧 Favorite Artists
+
+<div align="center">
+
+[![Dimash Kudaibergen](https://img.shields.io/badge/-Dimash_Kudaibergen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/00dhGVtq7dKHii7FPEopwm)
+[![Luciano Pavarotti](https://img.shields.io/badge/-Luciano_Pavarotti-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU)
+[![Michael Jackson](https://img.shields.io/badge/-Michael_Jackson-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm)
+
+*🎶 6 октав, оперный тенор и король попа — три голоса, три эпохи, одна планка качества.*
+
+</div>
 
 ---
 
@@ -144,5 +181,9 @@ int main() {
 ---
 
 <div align="center">
-<i>⭐ Thanks for visiting! Feel free to explore my repositories and reach out.</i>
+
+```
+🌸  Thanks for visiting — see you on the pitch, in the code, or under the sakura  🌸
+```
+
 </div>
