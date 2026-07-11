@@ -1,5 +1,17 @@
 <div align="center">
 
+```
+ ███████╗██████╗   █████╗  ███████╗██╗   ██╗██╗
+ ██╔════╝██╔══██╗ ██╔══██╗ ██╔════╝╚██╗ ██╔╝██║
+ █████╗  ██████╔╝ ███████║ ███████╗ ╚████╔╝ ██║
+ ██╔══╝  ██╔══██╗ ██╔══██║ ╚════██║  ╚██╔╝  ██║
+ ███████╗██║  ██║ ██║  ██║ ███████║   ██║   ███████╗
+ ╚══════╝╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝   ╚═╝   ╚══════╝
+
+        > AI ENGINEER  //  FULL-STACK DEVELOPER
+        > based in Aktobe, Kazakhstan 🇰🇿
+```
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erasyl+%F0%9F%91%8B;AI+Engineer+%26+Full-stack+Developer;Building+AinalayinAI+%F0%9F%A4%96;Currently+working+on+compil.kz" alt="Typing SVG" />
 
 <br/>
