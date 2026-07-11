@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erasyl+%F0%9F%91%8B;Backend+%26+Bot+Developer+from+Kazakhstan;Building+AinalayinAI+%F0%9F%A4%96;Currently+working+on+compil.kz" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erasyl+%F0%9F%91%8B;AI+Engineer+%26+Full-stack+Developer;Building+AinalayinAI+%F0%9F%A4%96;Currently+working+on+compil.kz" alt="Typing SVG" />
 
 <br/>
 
@@ -13,20 +13,31 @@
 
 ### 🧑‍💻 About Me
 
-```python
-class Erasyl:
-    def __init__(self):
-        self.name = "Erasyl Amirtay"
-        self.location = "Aktobe, Kazakhstan 🇰🇿"
-        self.role = "Backend & Bot Developer"
-        self.current_focus = "Building fintech tools for freelancers & SMEs"
-        self.fun_fact = "I turn government bureaucracy into clean APIs"
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something useful.")
+class Erasyl {
+public:
+    std::string name = "Erasyl Amirtay";
+    std::string location = "Aktobe, Kazakhstan";
+    std::string role = "AI Engineer & Full-stack Developer";
+    std::vector<std::string> focus = {
+        "Building fintech tools for freelancers & SMEs",
+        "Designing AI-powered products"
+    };
 
-me = Erasyl()
-me.say_hi()
+    void sayHi() const {
+        std::cout << "Thanks for stopping by! Let's build something useful." << std::endl;
+    }
+};
+
+int main() {
+    Erasyl me;
+    me.sayHi();
+    return 0;
+}
 ```
 
 ---
@@ -44,21 +55,6 @@ me.say_hi()
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ErasylCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasylCoder&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErasylCoder&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
