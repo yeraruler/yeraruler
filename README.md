@@ -15,7 +15,7 @@
 
 ```text
 > whoami
-  Yerasyl Amirtay — Software Engineer
+  Yerasyl Amirtay 
 
 > location
   Aktobe, Kazakhstan 🇰🇿
