@@ -40,7 +40,20 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,kotlin,git,github,linux&theme=light&perline=8)
+<sub><b>LANGUAGES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,java,cpp,go,bash&theme=light&perline=8" alt="Languages">
+
+<sub><b>FRONTEND</b></sub><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=light&perline=6" alt="Frontend">
+
+<sub><b>BACKEND</b></sub><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&theme=light&perline=6" alt="Backend">
+
+<sub><b>DATABASES</b></sub><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase&theme=light&perline=6" alt="Databases">
+
+<sub><b>DEVOPS &amp; TOOLS</b></sub><br>
+<img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,nginx,postman,vscode&theme=light&perline=8" alt="DevOps and tools">
 
 </div>
 
